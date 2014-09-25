@@ -1,0 +1,34 @@
+﻿while (whileFlag) {
+				byte[] lenBytes = new byte[10];
+				is.read(lenBytes, 0, 10);
+				// lenBytes[0] += 256;
+
+				if (lenBytes[0] == 0)
+				{
+					//whileFlag = false;
+					if (lenBytes[1] < 0)
+{
+						Log.d(TAG, "KeyMsg " + lenBytes[0] + " " + (lenBytes[1] & 0xff) + " " + lenBytes[2]);
+mVO = new MessageVO(lenBytes[0], lenBytes[1] & 0xff, lenBytes[2]);
+}
+					else
+{
+						Log.d(TAG, "KeyMsg " + lenBytes[0] + " " + lenBytes[1] + " " + lenBytes[2]);
+mVO = new MessageVO(lenBytes[0], lenBytes[1], lenBytes[2]);
+}
+				}
+				else if ( lenBytes[0] ==1)
+				{
+					int ptx = (int)lenBytes[3] * 100  + (int)lenBytes[4];
+					int pty = (int)lenBytes[5] * 100  + (int)lenBytes[6];
+					
+					
+					Log.d(TAG, "MouseMsg " + lenBytes[0] + " " + lenBytes[1] + " " + lenBytes[2] + " " +ptx + " "+pty);
+				}
+				else if ( lenBytes[0] ==100)
+				{
+					whileFlag = false;
+mVO = new MessageVO(lenBytes[0]);
+				}
+						
+			}

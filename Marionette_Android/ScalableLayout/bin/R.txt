@@ -1,0 +1,15 @@
+int attr scale_base_height 0x7f010001
+int attr scale_base_width 0x7f010000
+int attr scale_height 0x7f010006
+int attr scale_left 0x7f010004
+int attr scale_textsize 0x7f010002
+int attr scale_top 0x7f010003
+int attr scale_width 0x7f010005
+int[] styleable ScalableLayout { 0x7f010000, 0x7f010001, 0x7f010002, 0x7f010003, 0x7f010004, 0x7f010005, 0x7f010006 }
+int styleable ScalableLayout_scale_base_height 1
+int styleable ScalableLayout_scale_base_width 0
+int styleable ScalableLayout_scale_height 6
+int styleable ScalableLayout_scale_left 4
+int styleable ScalableLayout_scale_textsize 2
+int styleable ScalableLayout_scale_top 3
+int styleable ScalableLayout_scale_width 5

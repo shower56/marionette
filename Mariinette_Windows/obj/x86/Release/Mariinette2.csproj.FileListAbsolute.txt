@@ -1,0 +1,28 @@
+C:\Users\Ahn\Desktop\Mariinette2\Mariinette2\bin\Release\Mariinette2.exe
+C:\Users\Ahn\Desktop\Mariinette2\Mariinette2\bin\Release\Mariinette2.pdb
+C:\Users\Ahn\Desktop\Mariinette2\Mariinette2\bin\Release\InTheHand.Net.Personal.dll
+C:\Users\Ahn\Desktop\Mariinette2\Mariinette2\bin\Release\InTheHand.Net.Personal.xml
+C:\Users\Ahn\Desktop\Mariinette2\Mariinette2\obj\x86\Release\Mariinette2.Form1.resources
+C:\Users\Ahn\Desktop\Mariinette2\Mariinette2\obj\x86\Release\Mariinette2.popupClient.resources
+C:\Users\Ahn\Desktop\Mariinette2\Mariinette2\obj\x86\Release\Mariinette2.PopupServer.resources
+C:\Users\Ahn\Desktop\Mariinette2\Mariinette2\obj\x86\Release\Mariinette2.Properties.Resources.resources
+C:\Users\Ahn\Desktop\Mariinette2\Mariinette2\obj\x86\Release\Mariinette2.csproj.GenerateResource.Cache
+C:\Users\Ahn\Desktop\Mariinette2\Mariinette2\obj\x86\Release\Mariinette2.exe
+C:\Users\Ahn\Desktop\Mariinette2\Mariinette2\obj\x86\Release\Mariinette2.pdb
+C:\Users\Ahn\Desktop\Mariinette2\Mariinette2\obj\x86\Release\Mariinette2.TransParentArea.resources
+C:\Users\Ahn\Desktop\Mariinette2\Mariinette2\obj\x86\Release\Mariinette2.csprojResolveAssemblyReference.cache
+C:\Users\iK_YoonHC\Google 드라이브\Project\Visual Studio\c#Marionette\Mariinette2_최종\obj\x86\Release\Mariinette2.exe
+C:\Users\iK_YoonHC\Google 드라이브\Project\Visual Studio\c#Marionette\Mariinette2_최종\obj\x86\Release\Mariinette2.pdb
+C:\Users\iK_YoonHC\Google 드라이브\Project\Visual Studio\c#Marionette\Mariinette2_최종\bin\Release\Mariinette2.exe
+C:\Users\iK_YoonHC\Google 드라이브\Project\Visual Studio\c#Marionette\Mariinette2_최종\bin\Release\Mariinette2.pdb
+C:\Users\iK_YoonHC\Google 드라이브\Project\Visual Studio\c#Marionette\Mariinette2_최종\bin\Release\InTheHand.Net.Personal.xml
+C:\Users\iK_YoonHC\Google 드라이브\Project\Visual Studio\c#Marionette\Mariinette2_최종\obj\x86\Release\Mariinette2.csprojResolveAssemblyReference.cache
+C:\Users\iK_YoonHC\Google 드라이브\Project\Visual Studio\c#Marionette\Mariinette2_최종\obj\x86\Release\Mariinette2.CheckBlueTooth.resources
+C:\Users\iK_YoonHC\Google 드라이브\Project\Visual Studio\c#Marionette\Mariinette2_최종\obj\x86\Release\Mariinette2.DisConnectBluetooth.resources
+C:\Users\iK_YoonHC\Google 드라이브\Project\Visual Studio\c#Marionette\Mariinette2_최종\obj\x86\Release\Mariinette2.DisConnectSerial.resources
+C:\Users\iK_YoonHC\Google 드라이브\Project\Visual Studio\c#Marionette\Mariinette2_최종\obj\x86\Release\Mariinette2.Form1.resources
+C:\Users\iK_YoonHC\Google 드라이브\Project\Visual Studio\c#Marionette\Mariinette2_최종\obj\x86\Release\Mariinette2.popupClient.resources
+C:\Users\iK_YoonHC\Google 드라이브\Project\Visual Studio\c#Marionette\Mariinette2_최종\obj\x86\Release\Mariinette2.PopupServer.resources
+C:\Users\iK_YoonHC\Google 드라이브\Project\Visual Studio\c#Marionette\Mariinette2_최종\obj\x86\Release\Mariinette2.Properties.Resources.resources
+C:\Users\iK_YoonHC\Google 드라이브\Project\Visual Studio\c#Marionette\Mariinette2_최종\obj\x86\Release\Mariinette2.TransParentArea.resources
+C:\Users\iK_YoonHC\Google 드라이브\Project\Visual Studio\c#Marionette\Mariinette2_최종\obj\x86\Release\Mariinette2.csproj.GenerateResource.Cache

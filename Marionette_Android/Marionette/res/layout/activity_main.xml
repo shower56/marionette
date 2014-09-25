@@ -1,0 +1,171 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:sl="http://schemas.android.com/apk/res/org.probit.marionette"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:gravity="center"
+    android:orientation="vertical" >
+
+    <com.jnm.android.widget.ScalableLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="@drawable/bg"
+        sl:scale_base_height="800"
+        sl:scale_base_width="480" >
+
+        <CheckBox
+            android:id="@+id/checkBox_Connect_Text"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:button="@drawable/textselector"
+            android:checked="false"
+            android:clickable="false"
+            sl:scale_height="60"
+            sl:scale_left="139"
+            sl:scale_top="40"
+            sl:scale_width="205" />
+
+        <ImageView
+            android:id="@+id/addbutton"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:src="@drawable/phone"
+            sl:scale_height="131"
+            sl:scale_left="184"
+            sl:scale_top="103"
+            sl:scale_width="132" />
+
+        <CheckBox
+            android:id="@+id/checkBox_Bluetooth_Icon"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:button="@drawable/selector_bluetooth_icon"
+            android:checked="false"
+            sl:scale_height="133"
+            sl:scale_left="57"
+            sl:scale_top="292"
+            sl:scale_width="133" />
+
+        <CheckBox
+            android:id="@+id/checkBox_Serial_Icon"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:button="@drawable/selector_serial_icon"
+            android:checked="false"
+            android:clickable="false"
+            sl:scale_height="133"
+            sl:scale_left="297"
+            sl:scale_top="292"
+            sl:scale_width="133" />
+
+        <CheckBox
+            android:id="@+id/checkBox_Bluetooth_Line"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:button="@drawable/selector_bluetooth_line"
+            android:checked="false"
+            android:clickable="false"
+            sl:scale_height="71"
+            sl:scale_left="116"
+            sl:scale_top="209"
+            sl:scale_width="64" />
+
+        <!-- <CheckBox -->
+        <!-- android:id="@+id/checkBox_Bluetooth" -->
+        <!-- android:layout_width="wrap_content" -->
+        <!-- android:layout_height="wrap_content" -->
+        <!-- android:button="@drawable/bluetxtselector" -->
+        <!-- sl:scale_height="22" -->
+        <!-- sl:scale_left="64" -->
+        <!-- sl:scale_top="472" -->
+        <!-- sl:scale_width="189" /> -->
+
+
+        <!-- <CheckBox -->
+        <!-- android:id="@+id/checkBox_Serial" -->
+        <!-- android:layout_width="wrap_content" -->
+        <!-- android:layout_height="wrap_content" -->
+        <!-- android:button="@drawable/serialselector" -->
+        <!-- sl:scale_height="22" -->
+        <!-- sl:scale_left="271" -->
+        <!-- sl:scale_top="472" -->
+        <!-- sl:scale_width="148" /> -->
+
+        <CheckBox
+            android:id="@+id/checkBox_Serial_Line"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:button="@drawable/selector_serial_line"
+            android:checked="false"
+            android:clickable="false"
+            sl:scale_height="71"
+            sl:scale_left="316"
+            sl:scale_top="209"
+            sl:scale_width="64" />
+
+        <CheckBox
+            android:id="@+id/checkBox_Connect_Line"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:button="@drawable/comselector"
+            android:checked="false"
+            android:clickable="false"
+            sl:scale_height="61"
+            sl:scale_left="197"
+            sl:scale_top="330"
+            sl:scale_width="93" />
+
+        <ImageView
+            android:id="@+id/imageView4"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:src="@drawable/server_bar"
+            sl:scale_height="30"
+            sl:scale_left="63"
+            sl:scale_top="538"
+            sl:scale_width="142" />
+
+        <ImageView
+            android:id="@+id/imageView6"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:src="@drawable/client_bar"
+            sl:scale_height="30"
+            sl:scale_left="63"
+            sl:scale_top="643"
+            sl:scale_width="142" />
+
+        <TextView
+            android:id="@+id/txt_Serial_Name"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:background="@drawable/txt_bar"
+            sl:scale_height="31"
+            sl:scale_left="63"
+            sl:scale_textsize="20"
+            sl:scale_top="570"
+            sl:scale_width="356" />
+
+        <TextView
+            android:id="@+id/txt_Bluetooth_Name"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:background="@drawable/txt_bar"
+            sl:scale_height="31"
+            sl:scale_left="63"
+            sl:scale_textsize="20"
+            sl:scale_top="675"
+            sl:scale_width="356" />
+
+        <ImageButton
+            android:id="@+id/informButton"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:background="#00000000"
+            android:src="@drawable/inform"
+            sl:scale_height="26"
+            sl:scale_left="226"
+            sl:scale_top="643"
+            sl:scale_width="26" />
+    </com.jnm.android.widget.ScalableLayout>
+
+</LinearLayout>

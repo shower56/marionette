@@ -1,0 +1,143 @@
+c:\users\bssm_yoon\documents\visual studio 2010\Projects\Mariinette2\Mariinette2\bin\Debug\Mariinette2.exe
+c:\users\bssm_yoon\documents\visual studio 2010\Projects\Mariinette2\Mariinette2\bin\Debug\Mariinette2.pdb
+c:\users\bssm_yoon\documents\visual studio 2010\Projects\Mariinette2\Mariinette2\obj\x86\Debug\Mariinette2.Form1.resources
+c:\users\bssm_yoon\documents\visual studio 2010\Projects\Mariinette2\Mariinette2\obj\x86\Debug\Mariinette2.Properties.Resources.resources
+c:\users\bssm_yoon\documents\visual studio 2010\Projects\Mariinette2\Mariinette2\obj\x86\Debug\Mariinette2.csproj.GenerateResource.Cache
+c:\users\bssm_yoon\documents\visual studio 2010\Projects\Mariinette2\Mariinette2\obj\x86\Debug\Mariinette2.exe
+c:\users\bssm_yoon\documents\visual studio 2010\Projects\Mariinette2\Mariinette2\obj\x86\Debug\Mariinette2.pdb
+C:\Users\BSSM_YOON\documents\visual studio 2010\Projects\Mariinette2\Mariinette2\obj\x86\Debug\Mariinette2.csprojResolveAssemblyReference.cache
+C:\Users\BSSM_YOON\documents\visual studio 2010\Projects\Mariinette2\Mariinette2\bin\Debug\InTheHand.Net.Personal.dll
+C:\Users\BSSM_YOON\documents\visual studio 2010\Projects\Mariinette2\Mariinette2\bin\Debug\InTheHand.Net.Personal.xml
+D:\Mariinette2\Mariinette2\obj\x86\Debug\Mariinette2.exe
+D:\Mariinette2\Mariinette2\obj\x86\Debug\Mariinette2.pdb
+C:\Users\Ahn\Desktop\Mariinette2\Mariinette2\obj\x86\Debug\Mariinette2.exe
+C:\Users\Ahn\Desktop\Mariinette2\Mariinette2\obj\x86\Debug\Mariinette2.pdb
+C:\Users\Ahn\Desktop\Mariinette2\Mariinette2\bin\Debug\Mariinette2.exe
+C:\Users\Ahn\Desktop\Mariinette2\Mariinette2\bin\Debug\Mariinette2.pdb
+C:\Users\Ahn\Desktop\Mariinette2\Mariinette2\bin\Debug\InTheHand.Net.Personal.dll
+C:\Users\Ahn\Desktop\Mariinette2\Mariinette2\bin\Debug\InTheHand.Net.Personal.xml
+C:\Users\Ahn\Desktop\Mariinette2\Mariinette2\obj\x86\Debug\Mariinette2.csprojResolveAssemblyReference.cache
+C:\Users\Ahn\Desktop\Mariinette2\Mariinette2\obj\x86\Debug\Mariinette2.Form1.resources
+C:\Users\Ahn\Desktop\Mariinette2\Mariinette2\obj\x86\Debug\Mariinette2.Properties.Resources.resources
+C:\Users\Ahn\Desktop\Mariinette2\Mariinette2\obj\x86\Debug\Mariinette2.csproj.GenerateResource.Cache
+C:\Users\Ahn\Desktop\Mariinette2\Mariinette2\obj\x86\Debug\Mariinette2.popupClient.resources
+C:\Users\Ahn\Desktop\Mariinette2\Mariinette2\obj\x86\Debug\Mariinette2.PopupServer.resources
+C:\Users\Ahn\Desktop\Mariinette2\Mariinette2\obj\x86\Debug\Mariinette2.TransParentArea.resources
+D:\c#\Mariinette2\obj\x86\Debug\Mariinette2.exe
+D:\c#\Mariinette2\obj\x86\Debug\Mariinette2.pdb
+D:\c#\Mariinette2\bin\Debug\Mariinette2.exe
+D:\c#\Mariinette2\bin\Debug\Mariinette2.pdb
+D:\c#\Mariinette2\bin\Debug\InTheHand.Net.Personal.xml
+D:\c#\Mariinette2\obj\x86\Debug\Mariinette2.csprojResolveAssemblyReference.cache
+D:\c#\Mariinette2\obj\x86\Debug\Mariinette2.Form1.resources
+D:\c#\Mariinette2\obj\x86\Debug\Mariinette2.popupClient.resources
+D:\c#\Mariinette2\obj\x86\Debug\Mariinette2.PopupServer.resources
+D:\c#\Mariinette2\obj\x86\Debug\Mariinette2.Properties.Resources.resources
+D:\c#\Mariinette2\obj\x86\Debug\Mariinette2.TransParentArea.resources
+D:\c#\Mariinette2\obj\x86\Debug\Mariinette2.csproj.GenerateResource.Cache
+C:\Users\Probit\Documents\Visual Studio 2012\Projects\Mariinette2_최종근\obj\x86\Debug\Mariinette2.exe
+C:\Users\Probit\Documents\Visual Studio 2012\Projects\Mariinette2_최종근\obj\x86\Debug\Mariinette2.pdb
+C:\Users\Probit\Documents\Visual Studio 2012\Projects\Mariinette2_최종근\bin\Debug\Mariinette2.exe
+C:\Users\Probit\Documents\Visual Studio 2012\Projects\Mariinette2_최종근\bin\Debug\Mariinette2.pdb
+C:\Users\Probit\Documents\Visual Studio 2012\Projects\Mariinette2_최종근\bin\Debug\InTheHand.Net.Personal.xml
+C:\Users\Probit\Documents\Visual Studio 2012\Projects\Mariinette2_최종근\obj\x86\Debug\Mariinette2.csprojResolveAssemblyReference.cache
+C:\Users\Probit\Documents\Visual Studio 2012\Projects\Mariinette2_최종근\obj\x86\Debug\Mariinette2.Form1.resources
+C:\Users\Probit\Documents\Visual Studio 2012\Projects\Mariinette2_최종근\obj\x86\Debug\Mariinette2.popupClient.resources
+C:\Users\Probit\Documents\Visual Studio 2012\Projects\Mariinette2_최종근\obj\x86\Debug\Mariinette2.PopupServer.resources
+C:\Users\Probit\Documents\Visual Studio 2012\Projects\Mariinette2_최종근\obj\x86\Debug\Mariinette2.Properties.Resources.resources
+C:\Users\Probit\Documents\Visual Studio 2012\Projects\Mariinette2_최종근\obj\x86\Debug\Mariinette2.TransParentArea.resources
+C:\Users\Probit\Documents\Visual Studio 2012\Projects\Mariinette2_최종근\obj\x86\Debug\Mariinette2.csproj.GenerateResource.Cache
+C:\Users\Ahn\Desktop\Mariinette2\Mariinette2_최종근\obj\x86\Debug\Mariinette2.exe
+C:\Users\Ahn\Desktop\Mariinette2\Mariinette2_최종근\obj\x86\Debug\Mariinette2.pdb
+C:\Users\Ahn\Desktop\Mariinette2\Mariinette2_최종근\bin\Debug\Mariinette2.exe
+C:\Users\Ahn\Desktop\Mariinette2\Mariinette2_최종근\bin\Debug\Mariinette2.pdb
+C:\Users\Ahn\Desktop\Mariinette2\Mariinette2_최종근\bin\Debug\InTheHand.Net.Personal.dll
+C:\Users\Ahn\Desktop\Mariinette2\Mariinette2_최종근\bin\Debug\InTheHand.Net.Personal.xml
+C:\Users\Ahn\Desktop\Mariinette2\Mariinette2_최종근\obj\x86\Debug\Mariinette2.csprojResolveAssemblyReference.cache
+C:\Users\Ahn\Desktop\Mariinette2\Mariinette2_최종근\obj\x86\Debug\Mariinette2.Form1.resources
+C:\Users\Ahn\Desktop\Mariinette2\Mariinette2_최종근\obj\x86\Debug\Mariinette2.popupClient.resources
+C:\Users\Ahn\Desktop\Mariinette2\Mariinette2_최종근\obj\x86\Debug\Mariinette2.PopupServer.resources
+C:\Users\Ahn\Desktop\Mariinette2\Mariinette2_최종근\obj\x86\Debug\Mariinette2.Properties.Resources.resources
+C:\Users\Ahn\Desktop\Mariinette2\Mariinette2_최종근\obj\x86\Debug\Mariinette2.TransParentArea.resources
+C:\Users\Ahn\Desktop\Mariinette2\Mariinette2_최종근\obj\x86\Debug\Mariinette2.csproj.GenerateResource.Cache
+C:\Users\Ahn\Desktop\Mariinette2\Mariinette2_최종근\obj\x86\Debug\Mariinette2.CheckBlueTooth.resources
+C:\Users\Ahn\Desktop\Mariinette2\Mariinette2_최종근\obj\x86\Debug\Mariinette2.DisConnectBluetooth.resources
+C:\Users\Ahn\Desktop\Mariinette2\Mariinette2_최종근\obj\x86\Debug\Mariinette2.DisConnectSerial.resources
+C:\Users\Ahn\Desktop\Mariinette2\Mariinette2_최종근111\obj\x86\Debug\Mariinette2.exe
+C:\Users\Ahn\Desktop\Mariinette2\Mariinette2_최종근111\obj\x86\Debug\Mariinette2.pdb
+C:\Users\Ahn\Desktop\Mariinette2\Mariinette2_최종근111\bin\Debug\Mariinette2.exe
+C:\Users\Ahn\Desktop\Mariinette2\Mariinette2_최종근111\bin\Debug\Mariinette2.pdb
+C:\Users\Ahn\Desktop\Mariinette2\Mariinette2_최종근111\bin\Debug\InTheHand.Net.Personal.dll
+C:\Users\Ahn\Desktop\Mariinette2\Mariinette2_최종근111\bin\Debug\InTheHand.Net.Personal.xml
+C:\Users\Ahn\Desktop\Mariinette2\Mariinette2_최종근111\obj\x86\Debug\Mariinette2.csprojResolveAssemblyReference.cache
+C:\Users\Ahn\Desktop\Mariinette2\Mariinette2_최종근111\obj\x86\Debug\Mariinette2.CheckBlueTooth.resources
+C:\Users\Ahn\Desktop\Mariinette2\Mariinette2_최종근111\obj\x86\Debug\Mariinette2.DisConnectBluetooth.resources
+C:\Users\Ahn\Desktop\Mariinette2\Mariinette2_최종근111\obj\x86\Debug\Mariinette2.DisConnectSerial.resources
+C:\Users\Ahn\Desktop\Mariinette2\Mariinette2_최종근111\obj\x86\Debug\Mariinette2.Form1.resources
+C:\Users\Ahn\Desktop\Mariinette2\Mariinette2_최종근111\obj\x86\Debug\Mariinette2.popupClient.resources
+C:\Users\Ahn\Desktop\Mariinette2\Mariinette2_최종근111\obj\x86\Debug\Mariinette2.PopupServer.resources
+C:\Users\Ahn\Desktop\Mariinette2\Mariinette2_최종근111\obj\x86\Debug\Mariinette2.Properties.Resources.resources
+C:\Users\Ahn\Desktop\Mariinette2\Mariinette2_최종근111\obj\x86\Debug\Mariinette2.TransParentArea.resources
+C:\Users\Ahn\Desktop\Mariinette2\Mariinette2_최종근111\obj\x86\Debug\Mariinette2.csproj.GenerateResource.Cache
+C:\Users\Administrator\Documents\Mariinette2_최종근111 (9)\obj\x86\Debug\Mariinette2.exe
+C:\Users\Administrator\Documents\Mariinette2_최종근111 (9)\obj\x86\Debug\Mariinette2.pdb
+C:\Users\Administrator\Documents\Mariinette2_최종근111 (9)\bin\Debug\Mariinette2.exe
+C:\Users\Administrator\Documents\Mariinette2_최종근111 (9)\bin\Debug\Mariinette2.pdb
+C:\Users\Administrator\Documents\Mariinette2_최종근111 (9)\bin\Debug\InTheHand.Net.Personal.xml
+C:\Users\Administrator\Documents\Mariinette2_최종근111 (9)\obj\x86\Debug\Mariinette2.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Documents\Mariinette2_최종근111 (9)\obj\x86\Debug\Mariinette2.CheckBlueTooth.resources
+C:\Users\Administrator\Documents\Mariinette2_최종근111 (9)\obj\x86\Debug\Mariinette2.DisConnectBluetooth.resources
+C:\Users\Administrator\Documents\Mariinette2_최종근111 (9)\obj\x86\Debug\Mariinette2.DisConnectSerial.resources
+C:\Users\Administrator\Documents\Mariinette2_최종근111 (9)\obj\x86\Debug\Mariinette2.Form1.resources
+C:\Users\Administrator\Documents\Mariinette2_최종근111 (9)\obj\x86\Debug\Mariinette2.popupClient.resources
+C:\Users\Administrator\Documents\Mariinette2_최종근111 (9)\obj\x86\Debug\Mariinette2.PopupServer.resources
+C:\Users\Administrator\Documents\Mariinette2_최종근111 (9)\obj\x86\Debug\Mariinette2.Properties.Resources.resources
+C:\Users\Administrator\Documents\Mariinette2_최종근111 (9)\obj\x86\Debug\Mariinette2.TransParentArea.resources
+C:\Users\Administrator\Documents\Mariinette2_최종근111 (9)\obj\x86\Debug\Mariinette2.csproj.GenerateResource.Cache
+C:\Users\CSSM_YOON\Documents\Marionette\Mariinette2_최종\obj\x86\Debug\Mariinette2.exe
+C:\Users\CSSM_YOON\Documents\Marionette\Mariinette2_최종\obj\x86\Debug\Mariinette2.pdb
+C:\Users\CSSM_YOON\Documents\Marionette\Mariinette2_최종\bin\Debug\Mariinette2.exe
+C:\Users\CSSM_YOON\Documents\Marionette\Mariinette2_최종\bin\Debug\Mariinette2.pdb
+C:\Users\CSSM_YOON\Documents\Marionette\Mariinette2_최종\bin\Debug\InTheHand.Net.Personal.xml
+C:\Users\CSSM_YOON\Documents\Marionette\Mariinette2_최종\obj\x86\Debug\Mariinette2.csprojResolveAssemblyReference.cache
+C:\Users\CSSM_YOON\Documents\Marionette\Mariinette2_최종\obj\x86\Debug\Mariinette2.CheckBlueTooth.resources
+C:\Users\CSSM_YOON\Documents\Marionette\Mariinette2_최종\obj\x86\Debug\Mariinette2.DisConnectBluetooth.resources
+C:\Users\CSSM_YOON\Documents\Marionette\Mariinette2_최종\obj\x86\Debug\Mariinette2.DisConnectSerial.resources
+C:\Users\CSSM_YOON\Documents\Marionette\Mariinette2_최종\obj\x86\Debug\Mariinette2.Form1.resources
+C:\Users\CSSM_YOON\Documents\Marionette\Mariinette2_최종\obj\x86\Debug\Mariinette2.popupClient.resources
+C:\Users\CSSM_YOON\Documents\Marionette\Mariinette2_최종\obj\x86\Debug\Mariinette2.PopupServer.resources
+C:\Users\CSSM_YOON\Documents\Marionette\Mariinette2_최종\obj\x86\Debug\Mariinette2.Properties.Resources.resources
+C:\Users\CSSM_YOON\Documents\Marionette\Mariinette2_최종\obj\x86\Debug\Mariinette2.TransParentArea.resources
+C:\Users\CSSM_YOON\Documents\Marionette\Mariinette2_최종\obj\x86\Debug\Mariinette2.csproj.GenerateResource.Cache
+C:\Users\iK_YoonHC\Google 드라이브\Project\Visual Studio\c#Marionette\Mariinette2_최종\obj\x86\Debug\Mariinette2.exe
+C:\Users\iK_YoonHC\Google 드라이브\Project\Visual Studio\c#Marionette\Mariinette2_최종\obj\x86\Debug\Mariinette2.pdb
+C:\Users\iK_YoonHC\Google 드라이브\Project\Visual Studio\c#Marionette\Mariinette2_최종\bin\Debug\Mariinette2.exe
+C:\Users\iK_YoonHC\Google 드라이브\Project\Visual Studio\c#Marionette\Mariinette2_최종\bin\Debug\Mariinette2.pdb
+C:\Users\iK_YoonHC\Google 드라이브\Project\Visual Studio\c#Marionette\Mariinette2_최종\bin\Debug\InTheHand.Net.Personal.xml
+C:\Users\iK_YoonHC\Google 드라이브\Project\Visual Studio\c#Marionette\Mariinette2_최종\obj\x86\Debug\Mariinette2.csprojResolveAssemblyReference.cache
+C:\Users\iK_YoonHC\Google 드라이브\Project\Visual Studio\c#Marionette\Mariinette2_최종\obj\x86\Debug\Mariinette2.CheckBlueTooth.resources
+C:\Users\iK_YoonHC\Google 드라이브\Project\Visual Studio\c#Marionette\Mariinette2_최종\obj\x86\Debug\Mariinette2.DisConnectBluetooth.resources
+C:\Users\iK_YoonHC\Google 드라이브\Project\Visual Studio\c#Marionette\Mariinette2_최종\obj\x86\Debug\Mariinette2.DisConnectSerial.resources
+C:\Users\iK_YoonHC\Google 드라이브\Project\Visual Studio\c#Marionette\Mariinette2_최종\obj\x86\Debug\Mariinette2.Form1.resources
+C:\Users\iK_YoonHC\Google 드라이브\Project\Visual Studio\c#Marionette\Mariinette2_최종\obj\x86\Debug\Mariinette2.popupClient.resources
+C:\Users\iK_YoonHC\Google 드라이브\Project\Visual Studio\c#Marionette\Mariinette2_최종\obj\x86\Debug\Mariinette2.PopupServer.resources
+C:\Users\iK_YoonHC\Google 드라이브\Project\Visual Studio\c#Marionette\Mariinette2_최종\obj\x86\Debug\Mariinette2.Properties.Resources.resources
+C:\Users\iK_YoonHC\Google 드라이브\Project\Visual Studio\c#Marionette\Mariinette2_최종\obj\x86\Debug\Mariinette2.TransParentArea.resources
+C:\Users\iK_YoonHC\Google 드라이브\Project\Visual Studio\c#Marionette\Mariinette2_최종\obj\x86\Debug\Mariinette2.csproj.GenerateResource.Cache
+C:\Users\Administrator\Desktop\소공방에서하는 마이오네트 최종작업\Mariinette2_최종\obj\x86\Debug\Mariinette2.exe
+C:\Users\Administrator\Desktop\소공방에서하는 마이오네트 최종작업\Mariinette2_최종\obj\x86\Debug\Mariinette2.pdb
+C:\Users\Administrator\Desktop\소공방에서하는 마이오네트 최종작업\Mariinette2_최종\bin\Debug\Mariinette2.exe
+C:\Users\Administrator\Desktop\소공방에서하는 마이오네트 최종작업\Mariinette2_최종\bin\Debug\Mariinette2.pdb
+C:\Users\Administrator\Desktop\소공방에서하는 마이오네트 최종작업\Mariinette2_최종\bin\Debug\InTheHand.Net.Personal.xml
+C:\Users\Administrator\Desktop\소공방에서하는 마이오네트 최종작업\Mariinette2_최종\obj\x86\Debug\Mariinette2.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\소공방에서하는 마이오네트 최종작업\Mariinette2_최종\obj\x86\Debug\Mariinette2.CheckBlueTooth.resources
+C:\Users\Administrator\Desktop\소공방에서하는 마이오네트 최종작업\Mariinette2_최종\obj\x86\Debug\Mariinette2.DisConnectBluetooth.resources
+C:\Users\Administrator\Desktop\소공방에서하는 마이오네트 최종작업\Mariinette2_최종\obj\x86\Debug\Mariinette2.DisConnectSerial.resources
+C:\Users\Administrator\Desktop\소공방에서하는 마이오네트 최종작업\Mariinette2_최종\obj\x86\Debug\Mariinette2.Form1.resources
+C:\Users\Administrator\Desktop\소공방에서하는 마이오네트 최종작업\Mariinette2_최종\obj\x86\Debug\Mariinette2.popupClient.resources
+C:\Users\Administrator\Desktop\소공방에서하는 마이오네트 최종작업\Mariinette2_최종\obj\x86\Debug\Mariinette2.PopupServer.resources
+C:\Users\Administrator\Desktop\소공방에서하는 마이오네트 최종작업\Mariinette2_최종\obj\x86\Debug\Mariinette2.Properties.Resources.resources
+C:\Users\Administrator\Desktop\소공방에서하는 마이오네트 최종작업\Mariinette2_최종\obj\x86\Debug\Mariinette2.TransParentArea.resources
+C:\Users\Administrator\Desktop\소공방에서하는 마이오네트 최종작업\Mariinette2_최종\obj\x86\Debug\Mariinette2.csproj.GenerateResource.Cache
+C:\Users\Administrator\Google 드라이브\Project\Visual Studio\c#Marionette\소공방에서하는 마이오네트 최종작업\Mariinette2_최종\obj\x86\Debug\Mariinette2.exe
+C:\Users\Administrator\Google 드라이브\Project\Visual Studio\c#Marionette\소공방에서하는 마이오네트 최종작업\Mariinette2_최종\obj\x86\Debug\Mariinette2.pdb
